@@ -24,7 +24,9 @@ Expected Graduation: May 2027
 When I'm not coding, you'll find me:
 
 🎓 Leading society initiatives as Vice President of the Computer Science Society, organizing events and workshops that benefit the student community.
+
 ♟️ Playing chess - I enjoy the strategic thinking and problem-solving aspects of the game, which complement my analytical approach to programming.
+
 ✈️ Travelling - Exploring new places and cultures, broadening my perspectives and gaining inspiration for creative problem-solving.
 
 ## 📫 How to Reach Me
