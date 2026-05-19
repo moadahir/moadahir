@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohamed Dahir
 
-## 🚀 2nd Year Computer Science with AI Student at Birmingham City University and an incoming Data & Analytics intern @ National Highways
+## 🚀 Computer Science with AI Student at Birmingham City University and an Incoming Data & Analytics Intern @ National Highways
 I love challenging myself, creating impactful projects, and sharing what I learn! I'm passionate about everything that intersects data science and machine learning.
 
 ## 🌱 What I'm Currently Doing
